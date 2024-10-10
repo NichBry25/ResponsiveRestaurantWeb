@@ -5,7 +5,7 @@ body{
 
 /*This is the the header's CSS, including the image and restaurant name.*/
 .image-container1{
-    background-image: url("images/9C797EA9-798C-4DA5-8A80-F4F0CEA9A2E6_1_201_a.jpeg");
+    background-image: url("9C797EA9-798C-4DA5-8A80-F4F0CEA9A2E6_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -85,7 +85,7 @@ body{
 .column1 {
     float: left;
     width: 33.33%;
-    background-image: url("images/6622D42A-12B6-49D2-9569-D6F5197E898E_1_201_a.jpeg");
+    background-image: url("6622D42A-12B6-49D2-9569-D6F5197E898E_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -100,7 +100,7 @@ body{
 .column2 {
     float: left;
     width: 33.33%;
-    background-image: url("images/36F26A09-28A8-4565-8AAF-82158AD0E28F_1_201_a.jpeg");
+    background-image: url("36F26A09-28A8-4565-8AAF-82158AD0E28F_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -115,7 +115,7 @@ body{
 .column3 {
     float: left;
     width: 33.33%;
-    background-image: url("images/481DD7CD-1358-4274-8E58-49A4F77248FD_1_201_a.jpeg");
+    background-image: url("481DD7CD-1358-4274-8E58-49A4F77248FD_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -154,7 +154,7 @@ body{
 .columnleft1{
     float: left;
     width: 50%;
-    background-image: url("images/C3D22BCB-9785-444F-93D2-829323410256_4_5005_c.jpeg");
+    background-image: url("C3D22BCB-9785-444F-93D2-829323410256_4_5005_c.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -169,7 +169,7 @@ body{
 .columnright1{
     float: right;
     width: 50%;
-    background-image: url("images/83FE7DB3-95B9-4977-84B8-BF67AB6DA7B2_1_201_a.jpeg");
+    background-image: url("83FE7DB3-95B9-4977-84B8-BF67AB6DA7B2_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -184,7 +184,7 @@ body{
 .columnleft2{
     float: left;
     width: 50%;
-    background-image: url("images/34D4096A-AE36-4E6F-8415-EB697490A28C_1_201_a.jpeg");
+    background-image: url("34D4096A-AE36-4E6F-8415-EB697490A28C_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -199,7 +199,7 @@ body{
 .columnright2{
     float: right;
     width: 50%;
-    background-image: url("images/BCA4DE4C-8006-408F-A18E-C5926AFF72E6_1_201_a.jpeg");
+    background-image: url("BCA4DE4C-8006-408F-A18E-C5926AFF72E6_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -214,7 +214,7 @@ body{
 .columnleft3{
     float: left;
     width: 50%;
-    background-image: url("images/2C2157D6-7B1C-4032-A3FA-A740B50194F1_1_201_a.jpeg");
+    background-image: url("2C2157D6-7B1C-4032-A3FA-A740B50194F1_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -229,7 +229,7 @@ body{
 .columnright3{
     float: right;
     width: 50%;
-    background-image: url("images/F26BB5EA-A93A-4533-8E34-C714C25B825C_1_201_a.jpeg");
+    background-image: url("F26BB5EA-A93A-4533-8E34-C714C25B825C_1_201_a.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
@@ -272,7 +272,7 @@ body{
 .columnleftsignature{
     float: left;
     width: 50%;
-    background-image: url("images/78F4B096-493A-4DBD-AB8A-BD48A328528C_4_5005_c.jpeg");
+    background-image: url("78F4B096-493A-4DBD-AB8A-BD48A328528C_4_5005_c.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -288,7 +288,7 @@ body{
 .columnrightsignature{
     float: left;
     width: 50%;
-    background-image: url("images/D194529E-FD90-4C9C-9DF2-A97717E6F877_4_5005_c.jpeg");
+    background-image: url("D194529E-FD90-4C9C-9DF2-A97717E6F877_4_5005_c.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
